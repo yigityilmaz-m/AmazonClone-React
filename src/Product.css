@@ -12,7 +12,8 @@
 
 .product__info {
     height: 100px;
-    margin: 15px 15px 0 15px;
+    padding: 15px;
+    z-index: 1;
 }
 
 .product > img {
@@ -29,6 +30,6 @@
     margin-bottom: 10px;
     background: #f0c14b;
     border: 1px solid;
-    border-color: black;
+    border-color:  #a88734 #9c7e31 #846a29;
     color: #111;
 }
